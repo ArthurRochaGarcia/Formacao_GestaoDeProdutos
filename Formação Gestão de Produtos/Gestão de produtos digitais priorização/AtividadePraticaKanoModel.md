@@ -49,26 +49,27 @@ Executando a simulação de acordo com o modelo Kano e segundo a proposta da ati
 
 
 ## Reflexões e aprendizados  
-Após simular a atividade, percebi alguns pontos importantes sobre a dinâmica Buy a Feature
+Após simular a atividade, percebi alguns pontos importantes sobre a dinâmica Kano
 
-Vantagens:
+### Vantagens:
 
-* Subjetividade nas respostas: A interpretação das respostas pode variar e influenciar a classificação das funcionalidades de forma imprecisa.
+* #### Melhor Entendimento das Expectativas do Cliente:
+Permite identificar o que os clientes realmente valorizam e o que os deixa insatisfeitos, permitindo que as empresas se concentrem no que realmente importa para o consumidor. 
 
-* Necessidade de entrevistas ou dados bem estruturados: A coleta de dados exige preparação cuidadosa para evitar ruídos ou respostas enviesadas, pode ser um falso positivo.
+ * #### Melhoria Contínua:
+O modelo de Kano pode ser utilizado para avaliar o desempenho do produto ao longo do tempo e identificar oportunidades de melhoria. 
 
-* Menor foco em viabilidade técnica: O modelo não considera diretamente esforço, custo ou complexidade de desenvolvimento.
+### Desvantagens
 
-* Limitação em ambientes muito técnicos ou B2B: Pode ser menos útil quando as decisões são pautadas por integrações ou arquitetura, e não pela experiência do usuário final.
+* #### Especificidade da atividade: 
+A dinâmica é bastante específica para priorização de funcionalidades e pode não ser facilmente aplicável para outros tipos de decisão ou contextos mais amplos.
 
-Desvantagens
-* Tempo restrito: Pode ser difícil para todos absorverem as informações e discutir adequadamente num curto período, especialmente em projetos complexos.
+* #### Menor foco em viabilidade técnica: 
+O modelo não considera diretamente esforço, custo ou complexidade de desenvolvimento.
 
-* Especificidade da atividade: A dinâmica é bastante específica para priorização de funcionalidades e pode não ser facilmente aplicável para outros tipos de decisão ou contextos mais amplos.
 
-* Influência de participantes: Stakeholders mais assertivos ou com maior poder podem influenciar demais as decisões, reduzindo a diversidade de opiniões.
-
-* Estimativa simplificada: Os valores atribuídos às funcionalidades são arbitrários e podem não refletir a complexidade real, afetando a qualidade da priorização.
+* #### Estimativa simplificada: 
+Os valores atribuídos às funcionalidades são arbitrários e podem não refletir a complexidade real, afetando a qualidade da priorização.
 
 Reflexão geral:
 ---
