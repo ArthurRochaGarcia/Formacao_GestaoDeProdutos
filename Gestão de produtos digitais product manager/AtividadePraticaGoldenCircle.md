@@ -81,4 +81,4 @@ A experiência com o Golden Circle foi positiva, pois trouxe clareza e alinhamen
 
 ---
 
-"Esta atividade visa fixar o conhecimento sobre a importância de começar pelo propósito (‘Por quê’) para comunicar e planejar produtos com significado, fortalecendo o alinhamento e o engajamento entre times"
+*Esta atividade visa fixar o conhecimento sobre a importância de começar pelo propósito (‘Por quê’) para comunicar e planejar produtos com significado, fortalecendo o alinhamento e o engajamento entre times*
