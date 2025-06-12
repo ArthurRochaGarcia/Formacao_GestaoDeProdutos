@@ -5,7 +5,7 @@ Aplicar o framework das 4 Ações para identificar oportunidades estratégicas d
 
 ---
 
-### Produto escolhido: CryptoWave — Corretora de Criptomoedas Simplificada
+### Produto escolhido: CryptoWave: Corretora de Criptomoedas Simplificada
 
 Uma plataforma digital segura e intuitiva para comprar, vender e gerenciar criptomoedas com facilidade. Visa atender tanto iniciantes quanto traders experientes com uma experiência acessível, educativa e funcional.
 
@@ -13,7 +13,7 @@ Uma plataforma digital segura e intuitiva para comprar, vender e gerenciar cript
 
 ### Contexto
 
-O mercado de criptomoedas está cada vez mais competitivo, com diversas corretoras oferecendo serviços semelhantes. O **CryptoWave**, diante da saturação (Oceano Vermelho), busca criar diferenciais estratégicos para se destacar e alcançar um **Oceano Azul** — explorando valor inédito para o usuário.
+O mercado de criptomoedas está cada vez mais competitivo, com diversas corretoras oferecendo serviços semelhantes. O **CryptoWave**, diante da saturação (Oceano Vermelho), busca criar diferenciais estratégicos para se destacar e alcançar um **Oceano Azul** : explorando valor inédito para o usuário.
 
 ---
 
