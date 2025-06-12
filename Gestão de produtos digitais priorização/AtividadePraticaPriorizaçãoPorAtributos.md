@@ -3,11 +3,11 @@
 ## Objetivo  
 refletir sobre os critérios utilizados para priorizar funcionalidades em um produto digital, partindo dos três atributos estudados no curso:
 
-Lucro
+- Lucro
 
-Complexidade de desenvolvimento
+- Complexidade de desenvolvimento
 
-Agrado ao usuário
+- Agrado ao usuário
 
 A ideia central é analisar se esses atributos refletem a sua realidade profissional ao priorizar funcionalidades, e se há outros atributos que você considera importantes, podendo, inclusive, propor novos critérios que julgar mais relevantes para sua realidade de trabalho ou de projeto.
 
