@@ -11,7 +11,7 @@ Para tomar decisões mais seguras e com base em aprendizados, é necessário ref
 
 ---
 
-## Risco de Valor — *As pessoas realmente querem isso?*
+## Risco de Valor : *As pessoas realmente querem isso?*
 
 - Qual problema real dos clientes essa funcionalidade resolve?  
 - Os usuários atuais já expressaram demanda ou comportamento relacionado?  
@@ -20,7 +20,7 @@ Para tomar decisões mais seguras e com base em aprendizados, é necessário ref
 
 ---
 
-## Risco de Usabilidade — *Os usuários saberão usar?*
+## Risco de Usabilidade : *Os usuários saberão usar?*
 
 - A experiência de uso será intuitiva para clientes de diferentes perfis?  
 - Quais fricções ou dúvidas o usuário pode ter ao utilizar a funcionalidade?  
@@ -29,7 +29,7 @@ Para tomar decisões mais seguras e com base em aprendizados, é necessário ref
 
 ---
 
-## Risco de Negócio — *Isso faz sentido para o ByteBank?*
+## Risco de Negócio : *Isso faz sentido para o ByteBank?*
 
 - A funcionalidade está alinhada com a estratégia do produto e da empresa?  
 - Como isso impacta outros times (ex.: compliance, atendimento, marketing)?  
@@ -37,7 +37,7 @@ Para tomar decisões mais seguras e com base em aprendizados, é necessário ref
 
 ---
 
-## Risco de Viabilidade — *Conseguimos construir isso?*
+## Risco de Viabilidade : *Conseguimos construir isso?*
 
 - A tecnologia atual da plataforma permite essa funcionalidade?  
 - Qual o esforço estimado de desenvolvimento e integração com bandeiras e terminais?  
