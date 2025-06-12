@@ -5,7 +5,7 @@ Praticar a criação de uma persona para representar o cliente ideal da **DockBa
 
 ---
 
-### Produto escolhido: DockBag — A Bolsa Organiza-Caos
+### Produto escolhido: DockBag: A Bolsa Organiza-Caos
 
 Uma bolsa compacta, dobrável e com zíper retrátil. Ideal para guardar objetos que geralmente ficam espalhados pela mochila, mesa ou bolsa: carregador, fones, canetas, chiclete, remédios, cartão de acesso, moedas e lembranças aleatórias.
 
