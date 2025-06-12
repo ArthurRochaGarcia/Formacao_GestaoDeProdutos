@@ -1,4 +1,4 @@
-# Atividade Prática: Product Discovery — Delimitação de Objetivo
+# Atividade Prática: Product Discovery
 
 ## Objetivo  
 Colocar em prática os conceitos de Product Discovery, refletindo sobre as perguntas que ajudam a mitigar riscos antes da implementação de um novo produto ou funcionalidade.
