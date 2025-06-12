@@ -21,7 +21,7 @@ A ideia central é analisar se esses atributos refletem a sua realidade profissi
 |Complexidade de desenvolvimento | O quão complexo é fazer essa funcionalidade? (DEV)|
 |Agrado ao usuário | Quão agradável será para o usuário? (User)|
 
-Fazem bastante sentido na prática e são pilares fundamentais na priorização de funcionalidades em produtos digitais. No entanto, nem sempre são suficientes sozinhos para capturar toda a realidade de um projeto.
+Faz bastante sentido na prática e são pilares fundamentais na priorização de funcionalidades em produtos digitais. No entanto, nem sempre são suficientes sozinhos para capturar toda a realidade de um projeto.
 ---
 
 ## Atributos propostos
