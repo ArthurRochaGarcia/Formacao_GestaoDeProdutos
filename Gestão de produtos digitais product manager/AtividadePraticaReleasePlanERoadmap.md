@@ -1,4 +1,4 @@
-## Atividade Prática: Características do Release Plan e do Roadmap
+# Atividade Prática: Características do Release Plan e do Roadmap
 
 ### Objetivo  
 Revisar e consolidar os conceitos do **Release Plan** e do **Roadmap**, entendendo suas características distintas e complementares no contexto de gestão de produtos.
