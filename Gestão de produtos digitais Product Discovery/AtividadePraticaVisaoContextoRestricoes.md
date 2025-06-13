@@ -41,3 +41,6 @@ O Mercatus surge como resposta a esse cenário, oferecendo uma solução tecnol�
 |Regulações locais e fiscais|A operação em múltiplos municípios exige atenção à legislação de venda, tributação e logística urbana.|
 |Adoção tecnológica pelo público|É necessário considerar diferentes níveis de maturidade digital, tanto dos lojistas quanto dos consumidores.|
 
+---
+
+*Esta atividade visa fortalecer o pensamento estratégico na construção de produtos digitais, incentivando a clareza de visão, compreensão do ambiente e mapeamento dos limites reais do projeto.*
