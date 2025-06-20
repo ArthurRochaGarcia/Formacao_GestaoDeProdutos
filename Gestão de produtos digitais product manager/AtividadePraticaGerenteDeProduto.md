@@ -37,7 +37,9 @@ Essas habilidades permitem ao PM coordenar equipes, alinhar expectativas, resolv
 
 ---
 
-## Reflexão final  
+## Reflexão geral 
 Desenvolver e equilibrar as responsabilidades técnicas e as soft skills é fundamental para o sucesso na gestão de produtos. A combinação dessas competências permite que o Product Manager crie soluções que realmente atendam às necessidades dos usuários e do negócio.
+
+---
 
 *Esta atividade visa fixar o conhecimento sobre a importância de desenvolver habilidades comportamentais que complementam as responsabilidades do Product Manager*
