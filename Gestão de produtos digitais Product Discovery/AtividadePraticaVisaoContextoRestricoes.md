@@ -42,5 +42,11 @@ O Mercatus surge como resposta a esse cenário, oferecendo uma solução tecnol�
 |Adoção tecnológica pelo público|É necessário considerar diferentes níveis de maturidade digital, tanto dos lojistas quanto dos consumidores.|
 
 ---
+## Reflexão geral
+A atividade foi importante para estruturar a base estratégica do projeto Mercatus.
+Definir visão, contexto e restrições ajudou a trazer mais clareza sobre o posicionamento do produto, os desafios que envolvem sua execução e os limites que devem ser respeitados.
+Além disso, reforçou a importância de alinhar a proposta de valor à realidade do mercado e às condições operacionais existentes.
+
+---
 
 *Esta atividade visa fortalecer o pensamento estratégico na construção de produtos digitais, incentivando a clareza de visão, compreensão do ambiente e mapeamento dos limites reais do projeto.*
