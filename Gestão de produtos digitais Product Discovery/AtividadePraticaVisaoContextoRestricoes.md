@@ -11,9 +11,9 @@ A proposta é aplicar esse raciocínio ao produto, explorando sua proposta disru
 
 ---
 
-## Projeto escolhido: Mercatus – Comércio Digital Hiperlocal com IA Preditiva e Consumo Colaborativo
-Plataforma digital que conecta consumidores a estoques ociosos de comércios locais, com IA preditiva para antecipar demandas e logística sustentável.
-Estimula o consumo colaborativo e valoriza o comércio de bairro.
+## Projeto escolhido: Mercatus: Comércio Digital Hiperlocal com IA Preditiva e Consumo Colaborativo
+Plataforma digital que conecta consumidores a estoques ociosos de comércios locais, utilizando inteligência artificial para prever demandas e promover logística sustentável.
+O foco é estimular o consumo colaborativo e valorizar o comércio de bairro.
 
 ---
 
