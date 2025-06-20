@@ -1,4 +1,4 @@
-# Atividade Prática: Outcomes Map — Mercatus
+# Atividade Prática: Outcomes Map
 
 ## Objetivo
 Aplicar o Outcomes Map para estruturar a visão de resultados do produto digital **Mercatus**, conectando objetivos estratégicos, comportamentos esperados e entregas necessárias. A proposta é mapear o melhor e o pior cenário (Céu e Inferno), definir resultados-chave e garantir foco em outcomes reais e mensuráveis.
