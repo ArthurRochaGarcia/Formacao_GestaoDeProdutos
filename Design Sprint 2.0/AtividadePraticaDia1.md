@@ -1,7 +1,7 @@
 # Atividade Prática: Design Sprint – Dia 1
 
 ## Objetivo  
-Executar a primeira etapa do Design Sprint, focando em mapear o problema, definir o objetivo de longo prazo, levantar as principais perguntas da sprint, mapear os desafios na jornada do usuário e iniciar a ideação de soluções para um produto digital inovador.
+Simular a execução a primeira etapa do Design Sprint, focando em mapear o problema, definir o objetivo de longo prazo, levantar as principais perguntas da sprint, mapear os desafios na jornada do usuário e iniciar a ideação de soluções para um produto digital inovador.
 
 ---
 
