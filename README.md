@@ -6,13 +6,6 @@
 2. [Motivação](#motivação)
 3. [Cursos Concluídos](#cursos-concluídos)
 4. [Resumo dos Cursos](#resumo-dos-cursos)
-   - 1. [Product Manager](#product-manager:-uma-jornada-em-gestão-de-produto)
-   - 2. [Product Discovery](#product-discovery:-explorando-necessidades-reais)
-   - 3. [Design Sprint 2.0](#design-sprint-2.0:-crie-produtos-digitais-rapidamente)
-   - 4. [Roadmap](#roadmap:-como-criar-e-manter-o-mapa-de-produto)
-   - 5. [Priorização](#gestão-de-produtos-digitais:-priorização)
-   - 6. [Validação](#gestão-de-produtos-digitais:-validação)
-   - 7. [Aceleração](#gestão-de-produtos-digitais:-aceleração)
 5. [Reflexões Finais](#resumo-dos-cursos)
 
 ---
