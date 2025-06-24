@@ -8,7 +8,7 @@ O curso **"Gestão de Produtos Digitais: Aceleração"** faz parte da Formação
 
 ## Tópicos Abordados
 
-### 1. Small Batches (Pequenos Lotes)
+### 1. Small Batches
 
 - Importância de trabalhar com entregas menores e mais frequentes.
 - Como ciclos curtos permitem aprendizado rápido, feedback do usuário e menor risco.
@@ -55,7 +55,7 @@ O curso **"Gestão de Produtos Digitais: Aceleração"** faz parte da Formação
 
 ---
 
-### 7. Mob Programming (Trabalho em conjunto)
+### 7. Mob Programming
 
 - Benefícios da colaboração em tempo real entre desenvolvedores e áreas de produto.
 - Redução de retrabalho e aumento da qualidade.
