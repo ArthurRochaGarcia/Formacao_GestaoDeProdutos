@@ -80,7 +80,7 @@ Inspired: How to Create Tech Products Customers Love – Marty Cagan
  
 ---
  
-### 3. [Design Sprint 2.0: crie produtos digitais rapidamente](/Design%20Sprint)
+### 3. [Design Sprint 2.0: crie produtos digitais rapidamente](/Design%20Sprint%202.0)
  
 **Temas abordados:**
  
