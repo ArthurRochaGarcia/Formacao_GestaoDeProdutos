@@ -65,7 +65,7 @@ O curso **"Gestão de Produtos Digitais: Aceleração"** faz parte da Formação
 ## Aprendizados Pessoais
 
 - Aceleradores de produto vão muito além de marketing: envolvem estratégia de entrega, forma de trabalho e análise de dados.
-- Pequenos lotes (Small Batches) permitem testar, errar e corrigir com menos custo.
+- Small Batches permitem testar, errar e corrigir com menos custo.
 - Motores de crescimento não são “uma escolha única”, mas podem se complementar ao longo da vida do produto.
 
 ---
