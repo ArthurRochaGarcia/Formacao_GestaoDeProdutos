@@ -44,7 +44,7 @@ A ausência de um processo formalizado para seleção e avaliação de fornecedo
 ---
 ## Reflexão Geral
 
-Aplicar os **5 Porquês** ajudou a perceber como muitas vezes focamos apenas nos sintomas dos problemas, sem olhar a fundo para suas causas reais. A técnica força uma análise mais profunda, evitando soluções superficiais e pontuais.
+Aplicar os **5 Porquês** ajudou a perceber como muitas vezes focamos apenas nos sintomas dos problemas, sem olhar a fundo para suas causas reais.
 
 O principal aprendizado foi entender que, ao chegar na **causa raiz**, conseguimos propor ações realmente efetivas e sustentáveis para o negócio.
 
