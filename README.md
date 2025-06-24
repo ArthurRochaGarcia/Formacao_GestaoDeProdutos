@@ -6,14 +6,14 @@
 2. [Motivação](#motivação)
 3. [Cursos Concluídos](#cursos-concluídos)
 4. [Resumo dos Cursos](#resumo-dos-cursos)
-   - 1. Product Manager
-   - 2. Product Discovery
-   - 3. Design Sprint 2.0
-   - 4. Roadmap
-   - 5. Priorização
-   - 6. Validação
-   - 7. Aceleração
-5. Reflexões Finais
+   - 1. [Product Manager](#product-manager:-uma-jornada-em-gestão-de-produto)
+   - 2. [Product Discovery](#product-discovery:-explorando-necessidades-reais)
+   - 3. [Design Sprint 2.0](#design-sprint-2.0:-crie-produtos-digitais-rapidamente)
+   - 4. [Roadmap](#roadmap:-como-criar-e-manter-o-mapa-de-produto)
+   - 5. [Priorização](#gestão-de-produtos-digitais:-priorização)
+   - 6. [Validação](#gestão-de-produtos-digitais:-validação)
+   - 7. [Aceleração](#gestão-de-produtos-digitais:-aceleração)
+5. [Reflexões Finais](#resumo-dos-cursos)
 
 ---
 
@@ -56,5 +56,103 @@ Inspired: How to Create Tech Products Customers Love – Marty Cagan
 | Gestão de produtos digitais: validação | 6h |
 | Gestão de produtos digitais: aceleração | 6h |
 
+---
 
+## Resumo dos Cursos
+ 
+### 1. [Product Manager: uma jornada em gestão de produto](/Product%20Manager)
+ 
+**Temas abordados:**
+ 
+- Diferença entre Product Manager e PO.
+- Visão de produto, missão e alinhamento estratégico.
+- Roadmap e comunicação com stakeholders.
+ 
+**Principais aprendizados:**
+ 
+- Uso de frameworks como Visão / Contexto / Restrições.
+- Entendimento do papel estratégico do PM na evolução do produto.
+ 
+---
+ 
+### 2. [Product Discovery: explorando necessidades reais](/Product%20Discovery)
+ 
+**Temas abordados:**
+ 
+- X
+ 
+**Principais aprendizados:**
+ 
+- x.
+ 
+---
+ 
+### 3. [Design Sprint 2.0: crie produtos digitais rapidamente](/Design%20Sprint)
+ 
+**Temas abordados:**
+ 
+- As cinco etapas do Design Sprint: mapear, esboçar, decidir, prototipar, testar.
+- Estruturação de storyboards e fluxos de teste com usuários.
+- Validação rápida com usuários reais.
+ 
+**Principais aprendizados:**
+ 
+- Entendimento do valor de prototipação rápida.
+- Importância da colaboração entre áreas e da validação com usuários antes da entrega.
+ 
+---
 
+### 4. [Roadmap: como criar e manter o mapa de produto](/Roadmap)
+ 
+**Temas abordados:**
+ 
+- x
+ 
+**Principais aprendizados:**
+ 
+- x
+ 
+---
+
+### 5. [Gestão de produtos digitais: priorização](/Priorização)
+ 
+**Temas abordados:**
+ 
+- x
+ 
+**Principais aprendizados:**
+ 
+- x
+ 
+---
+
+### 6. [Gestão de produtos digitais: validação](/Validação)
+ 
+**Temas abordados:**
+ 
+- x
+ 
+**Principais aprendizados:**
+ 
+- x
+ 
+---
+
+### 7. [Gestão de produtos digitais: aceleração](/Aceleração)
+ 
+**Temas abordados:**
+ 
+- x
+ 
+**Principais aprendizados:**
+ 
+- x
+ 
+---
+ ## Reflexões Finais
+ 
+A formação tem sido importante para consolidar meu posicionamento como PO com visão de produto. Os cursos trazem uma boa combinação de teoria e prática.
+ 
+---
+ 
+*Este README faz parte do meu repositório de estudos da Formação em Gestão de Produtos Digitais da Alura.*
