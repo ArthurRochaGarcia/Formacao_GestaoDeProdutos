@@ -2,6 +2,7 @@
 
 ## Objetivo
 Utilizar a técnica dos 5 Porquês para identificar a causa raiz de um problema operacional. 
+
 ---
 
 ## Alvo escolhido
