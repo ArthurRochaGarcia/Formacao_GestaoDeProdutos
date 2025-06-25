@@ -83,8 +83,6 @@ O curso **"Design Sprint 2.0: Crie Produtos Digitais Rapidamente"** faz parte da
 
 O curso mostrou como é possível gerar valor em poucos dias através da colaboração estruturada. O Design Sprint é uma ferramenta útil tanto para novos produtos quanto para resolver desafios complexos em soluções existentes.
 
-**Próximo passo:** Conduzir um Sprint real com times multidisciplinares e aplicar os aprendizados em projetos de produto.
-
 ---
 
 *Este README faz parte do meu repositório de estudos da Formação em Gestão de Produtos Digitais da Alura.*
