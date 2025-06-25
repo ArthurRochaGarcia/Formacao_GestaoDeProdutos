@@ -71,12 +71,21 @@ Inspired: How to Create Tech Products Customers Love – Marty Cagan
 ### 2. [Product Discovery: explorando necessidades reais](/Product%20Discovery)
  
 **Temas abordados:**
- 
-- X
- 
+
+- Fundamentos de Visão, Contexto e Restrições no discovery.  
+- Outcomes Map como ferramenta para identificar cenários desejados e indesejados.  
+- Aplicação do framework **Cynefin** na categorização de problemas.  
+- Construção e objetivos de um **Roadmap de Produto**.  
+- Desenvolvimento de **Elevator Pitch** e **Vision Board**.  
+- Técnicas de **ideação** para gerar e organizar soluções.  
+- Introdução à **Lean Inception** e definição de MVP.  
+
 **Principais aprendizados:**
- 
-- x.
+
+- Como estruturar o discovery com base em frameworks visuais e estratégicos.  
+- Importância de conectar problemas reais a soluções desejáveis, viáveis e possíveis.  
+- Ferramentas práticas para alinhar time e stakeholders em torno da visão do produto.  
+- Entendimento de como o discovery reduz incertezas e orienta a entrega de valor.
  
 ---
  
@@ -98,48 +107,80 @@ Inspired: How to Create Tech Products Customers Love – Marty Cagan
 ### 4. [Roadmap: como criar e manter o mapa de produto](/Roadmap)
  
 **Temas abordados:**
- 
-- x
- 
+
+- Diferença entre Roadmap e Cronograma.  
+- Importância e exemplos práticos de Roadmaps eficazes.  
+- Níveis de planejamento: curto, médio e longo prazo.  
+- Tipos de Roadmap: por épicos, objetivos financeiros, entre outros.  
+- Relação entre Roadmap, OKRs e Product Backlog.  
+- Roadmap como artefato vivo e sua atualização com base em resultados.  
+- Ferramentas de apoio para construção e manutenção de Roadmaps.  
+
 **Principais aprendizados:**
- 
-- x
+
+- Como estruturar Roadmaps alinhados com objetivos de negócio e estratégias do produto.  
+- A importância de envolver os stakeholders certos no planejamento.  
+- Como utilizar OKRs para revisar e adaptar Roadmaps continuamente.  
+- Seleção de ferramentas para facilitar o acompanhamento e a comunicação do Roadmap.
  
 ---
 
 ### 5. [Gestão de produtos digitais: priorização](/Priorização)
  
 **Temas abordados:**
- 
-- x
- 
+
+- Técnicas de priorização como **Buy a Feature** e seu uso com stakeholders.  
+- Aplicação do **Modelo Kano** para classificar funcionalidades.  
+- Matriz de **Risco vs Valor** como apoio à tomada de decisão.  
+- Uso do **User Story Map** para organizar e visualizar entregas.  
+- Priorização com base em **atributos objetivos** e mensuráveis.  
+- Análise de **Cost of Delay** e sua relação com impacto no negócio.  
+- Discussão sobre **Trade-offs** e suas implicações no desenvolvimento.  
+
 **Principais aprendizados:**
- 
-- x
+
+- Como utilizar diferentes abordagens de priorização conforme o contexto.  
+- Técnicas práticas para envolver stakeholders e gerar consenso.  
+- Importância de equilibrar valor, risco, urgência e esforço na definição de prioridades.  
+- Ferramentas para aumentar a clareza e a objetividade no processo de priorização.
  
 ---
 
 ### 6. [Gestão de produtos digitais: validação](/Validação)
  
 **Temas abordados:**
- 
-- x
- 
+
+- Diferença entre **métricas de vaidade** e **métricas acionáveis**.  
+- Conceitos dos 3 A’s das métricas: **Acionáveis, Acessíveis e Auditáveis**.  
+- Utilização de **Testes A/B** para validação de hipóteses.  
+- Aplicação da **Análise Cohort** para entender o comportamento de grupos ao longo do tempo.  
+- Uso do **Design Sprint** como ferramenta de prototipação e validação rápida.  
+
 **Principais aprendizados:**
- 
-- x
+
+- Como identificar e evitar métricas que não geram valor estratégico.  
+- A importância de trabalhar com dados confiáveis, compreensíveis e úteis para decisões.  
+- Métodos para validar hipóteses e testar funcionalidades com usuários reais.  
+- Ferramentas que auxiliam a experimentação e aprendizagem contínua no desenvolvimento de produtos.
  
 ---
 
 ### 7. [Gestão de produtos digitais: aceleração](/Aceleração)
  
 **Temas abordados:**
- 
-- x
- 
+
+- Princípios e benefícios de trabalhar com **Small Batches**.  
+- Estratégias baseadas nos **motores de crescimento**: viral, pago e recorrente.  
+- Entendimento do **boca-a-boca** e sua relação com o marketing orgânico.  
+- Conceitos de **adaptabilidade** com inspiração no Toyota Kata e 5 Whys.  
+- Práticas de desenvolvimento colaborativo como o **Mob Programming**.  
+
 **Principais aprendizados:**
- 
-- x
+
+- Como reduzir riscos e aumentar eficiência com entregas em pequenas "jobs".  
+- Identificação e uso de diferentes motores de crescimento conforme o tipo de produto.  
+- A importância da experimentação e adaptação constante no ciclo de vida do produto.  
+- Ferramentas e práticas que aceleram a entrega e aprendizado do time.
  
 ---
  ## Reflexões Finais
