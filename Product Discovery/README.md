@@ -24,6 +24,10 @@ O curso **"Gestão de Produtos Digitais: Product Discovery"** faz parte da Forma
 - Ferramenta visual para mapear expectativas e resultados desejados.
 - Técnicas para identificar o “céu” (melhor cenário) e o “inferno” (pior cenário).
 - Uso do Outcomes Map como guia para direcionar prioridades.
+- Atividades:
+
+[Outcomes Map](Product%20Discovery/AtividadePraticaOutcomesMap.md)
+
 
 ---
 
@@ -33,6 +37,9 @@ O curso **"Gestão de Produtos Digitais: Product Discovery"** faz parte da Forma
 - Identificação de contextos: simples, complicado, complexo e caótico.
 - Entendimento da **zona de desordem** e como transitar entre os domínios.
 - Importância do mapeamento adequado dos problemas antes de propor soluções.
+- Atividades:
+
+[Cynefin](Product%20Discovery/AtividadePraticaCynefin.md)
 
 ---
 
@@ -42,6 +49,9 @@ O curso **"Gestão de Produtos Digitais: Product Discovery"** faz parte da Forma
 - Diferença entre **roadmap físico e digital**.
 - Estudo de roadmap como ferramenta de alinhamento estratégico.
 - Formas de construção colaborativa do roadmap com stakeholders.
+- Atividades:
+
+[Roadmap](Product%20Discovery/AtividadePraticaRoadMap.md)
 
 ---
 
@@ -51,6 +61,9 @@ O curso **"Gestão de Produtos Digitais: Product Discovery"** faz parte da Forma
 - Estrutura básica para construir um pitch claro e direto.
 - Preparação e prática do pitch com foco em produto digital.
 - Relação entre pitch, visão de produto e engajamento.
+- Atividades:
+
+[Elevator pich](Product%20Discovery/AtividadePraticaElevatorPich.md)
 
 ---
 
@@ -60,6 +73,9 @@ O curso **"Gestão de Produtos Digitais: Product Discovery"** faz parte da Forma
 - Construção de **Vision Boards** para alinhamento de produto com a equipe.
 - Comparação entre Elevator Pitch e Vision Board como formas de comunicação de valor.
 - Exercício prático de desenvolvimento de um Vision Board.
+- Atividades:
+
+[Vision Board](Product%20Discovery/AtividadePraticaVisionBoard.md)
 
 ---
 
@@ -68,6 +84,9 @@ O curso **"Gestão de Produtos Digitais: Product Discovery"** faz parte da Forma
 - Técnicas para geração de ideias no processo de descoberta.
 - Métodos criativos aplicáveis ao contexto de produtos digitais.
 - Envolvimento do time na ideação e construção de hipóteses.
+- Atividades:
+
+[Ideação](Product%20Discovery/AtividadePraticaIdeacao.md)
 
 ---
 
