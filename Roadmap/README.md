@@ -15,6 +15,9 @@ O curso **"Roadmap: como criar e manter o mapa de produto"** faz parte da Forma�
 - Como definir e apresentar roadmaps.
 - Principais **erros a evitar** ao criar um roadmap.
 - Exemplos práticos para ilustrar boas e más práticas.
+- Atividade:
+  
+  [Produto x Projeto](AtividadePraticaProdutoXProjeto.md)
 
 ---
 
@@ -25,6 +28,9 @@ O curso **"Roadmap: como criar e manter o mapa de produto"** faz parte da Forma�
 - Diferença entre **planejar resultados** e **planejar objetivos**.
 - Relação entre o **roadmap** e o **Product Backlog**.
 - Quem deve ser envolvido na construção e manutenção do roadmap.
+- Atividade:
+  
+  [Lista de Envolvidos](AtividadePraticaStakeholders.md)
 
 ---
 
@@ -44,6 +50,9 @@ O curso **"Roadmap: como criar e manter o mapa de produto"** faz parte da Forma�
 - Relação entre **resultados-chave (KR)** e planejamento de produto.
 - Como adaptar roadmaps durante as reuniões de alinhamento.
 - Outras formas de atualizar o roadmap com base em feedback e dados.
+- Atividade:
+  
+  [Roadmap](AtividadePraticaRoadmapPlanning.md)
 
 ---
 
