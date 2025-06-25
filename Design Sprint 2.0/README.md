@@ -28,7 +28,7 @@ O curso **"Design Sprint 2.0: Crie Produtos Digitais Rapidamente"** faz parte da
 - Discussão das ideias e consolidação da proposta.
 - Atividade:
   
-  [Dia 1](Design%20Sprint%202.0/AtividadePraticaDia1.md)
+  [Dia 1](AtividadePraticaDia1.md)
   
 ---
 
@@ -41,7 +41,7 @@ O curso **"Design Sprint 2.0: Crie Produtos Digitais Rapidamente"** faz parte da
 - Validação do conceito e preparação para o protótipo.
 - Atividade:
   
-  [Dia 2](Design%20Sprint%202.0/AtividadePraticaDia2.md)
+  [Dia 2](AtividadePraticaDia2.md)
 
 ---
 
@@ -53,7 +53,7 @@ O curso **"Design Sprint 2.0: Crie Produtos Digitais Rapidamente"** faz parte da
 - Reflexões sobre fidelidade e realismo necessário no protótipo.
 - Atividade:
   
-  [Dia 3](Design%20Sprint%202.0/AtividadePraticaDia3.md)
+  [Dia 3](AtividadePraticaDia3.md)
   
 ---
 
@@ -66,7 +66,7 @@ O curso **"Design Sprint 2.0: Crie Produtos Digitais Rapidamente"** faz parte da
 - Encerramento do ciclo e reflexões sobre a aplicabilidade da técnica.
 - Atividade:
   
-  [Dia 4](Design%20Sprint%202.0/AtividadePraticaDia4.md)
+  [Dia 4](AtividadePraticaDia4.md)
 
 ---
 
