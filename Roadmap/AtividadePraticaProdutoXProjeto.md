@@ -9,10 +9,10 @@ Compreender e diferenciar os conceitos de **visão de produto** e **visão de pr
 
 | Afirmação | Classificação | Exemplo prático |
 |---|---|---|
-| Estabelecer um período de tempo onde alguns objetivos devem ser atingidos | Visão de Projeto | Exemplo: Definir o prazo para lançar uma nova funcionalidade no **iFood**. |
+| Estabelecer um período de tempo onde alguns objetivos devem ser atingidos | Visão de produto | Exemplo: Definir o prazo para lançar uma nova funcionalidade no **iFood**. |
 | Definir o responsável para cada tarefa | Visão de Projeto | Exemplo: Delegar quem da equipe vai cuidar da integração de pagamento no **Nubank** durante o desenvolvimento de uma nova versão. |
 | Definir data de início e a data final de uma tarefa | Visão de Projeto | Exemplo: Planejar o período de desenvolvimento de uma nova campanha promocional no **Spotify**. |
-| Definir as entregas relacionadas ao objetivo | Visão de Projeto | Exemplo: Listar quais partes precisam ser entregues para liberar a funcionalidade de Stories no **Instagram**. |
+| Definir as entregas relacionadas ao objetivo | Visão de Produto | Exemplo: Listar quais partes precisam ser entregues para liberar a funcionalidade de Stories no **Instagram**. |
 
 ---
 
